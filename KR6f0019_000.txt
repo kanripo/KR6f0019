@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 發覺淨心經
+#+DATE: 2015-08-30 20:01:02.465273
+#+PROPERTY: JUAN 0
