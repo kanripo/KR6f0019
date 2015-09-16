@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:02.263326
+#+DATE: 2015-08-30 20:01:04.012178
 #+TITLE: 發覺淨心經
 #+PROPERTY: CBETA_ID T12n0327
 #+PROPERTY: ID KR6f0019
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 327
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0019_T_000-0043b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0019_T_002-0048c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《發覺淨心經》卷下¶
+《發覺淨心經》卷下¶
 ¶
 隋北印度健陀羅國三藏闍那崛多譯¶
 
